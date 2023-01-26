@@ -35,6 +35,10 @@
 
 * /yearly
 
+* /addcoins
+
+* /removecoins
+
 
 
 
